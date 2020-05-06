@@ -2,6 +2,6 @@ Testing X
 Hello
 Testing Y
 
-function isWorking(): {
+function isSecure(): {
 	return 'better'
 }
