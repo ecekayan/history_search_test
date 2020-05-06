@@ -1,3 +1,7 @@
 Testing X
 Hello
 Testing Y
+
+function isWorking(): {
+	return 'better'
+}
