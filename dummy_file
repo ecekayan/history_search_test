@@ -5,3 +5,7 @@ Testing Y
 function encrypt(): {
 	return 'encrypted text'
 }
+
+Some other line after
+Another line after
+
